@@ -1,3 +1,78 @@
+# 🎬 Movie Recommender
+
+A modern and responsive **Movie Recommender Website** built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
+This project helps users discover movies and web series by genre, region, rating, popularity, and trending status.
+
+---
+
+## 🚀 Live Demo
+
+🔗 Live Website: Coming Soon  
+🔗 GitHub Repository: https://github.com/Puskar10/Movie-recommender
+
+---
+
+## 📌 Project Overview
+
+**Movie Recommender** is a clean and professional movie discovery platform where users can explore movies and web series from different categories such as Hollywood, Bollywood, Tollywood, Trending, Top Rated, and Popular Web Series.
+
+The main goal of this project is to provide a smooth user experience with a modern UI, responsive layout, attractive movie cards, and useful recommendation sections.
+
+---
+
+## ✨ Features
+
+- 🎥 Discover movies and web series
+- 🔍 Genre-based filtering
+- 🌍 Region-wise recommendations
+  - Hollywood
+  - Bollywood
+  - Tollywood
+- 🔥 Trending movies section
+- ⭐ Top-rated movies section
+- 📺 Popular web series section
+- 🎞️ Movie cards with poster, rating, and details
+- ▶️ Trailer button support
+- 🌙 Dark mode and light mode friendly UI
+- 📱 Fully responsive design
+- ⚡ Fast performance using Next.js
+- 🎨 Modern UI with Tailwind CSS
+
+---
+
+## 🛠️ Tech Stack
+
+- **Next.js**
+- **React**
+- **TypeScript**
+- **Tailwind CSS**
+- **TMDB API**
+- **Vercel** for deployment
+
+---
+
+## 📂 Project Structure
+
+```bash
+Movie-recommender/
+├── public/
+│   └── assets/
+├── src/
+│   └── app/
+│       ├── page.tsx
+│       ├── layout.tsx
+│       └── globals.css
+├── package.json
+├── next.config.ts
+├── tsconfig.json
+└── README.md
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
