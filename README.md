@@ -7,7 +7,7 @@ This project helps users discover movies and web series by genre, region, rating
 
 ## 🚀 Live Demo
 
-🔗 Live Website: Coming Soon  
+🔗 Live Website: https://movie-recommender-six-livid.vercel.app/
 🔗 GitHub Repository: https://github.com/Puskar10/Movie-recommender
 
 ---
